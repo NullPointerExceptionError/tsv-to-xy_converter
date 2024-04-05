@@ -18,3 +18,4 @@ converts .tsv files into .xy files
 
 ## Note
 - Make sure to **keep backups of your original TSV files**, as they will be removed from the script.
+- Microsoft SmartScreen may classify this .exe as unknown. To execute this anyway, click on `More info`, then on `Run anyway`
